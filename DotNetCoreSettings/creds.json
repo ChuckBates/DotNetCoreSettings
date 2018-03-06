@@ -1,0 +1,12 @@
+﻿{
+  "Creds": {
+    "Cassandra": {
+      "Name": "keyer",
+      "Password": "super_secure_password"
+    },
+    "Rabbit": {
+      "Name": "guest",
+      "Password": "guest"
+    }
+  }
+}
